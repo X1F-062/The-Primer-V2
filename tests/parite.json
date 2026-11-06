@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "girdiler": {
+      "karar_suresi_sn": 12.5,
+      "karar_degistirme_sayisi": 0,
+      "sahne_zorluk_derecesi": 2,
+      "onceki_yanlis_sayisi": 0,
+      "yazi_okuma_hizi_wpm": 250.0
+    },
+    "beklenen_sinif": 0,
+    "oracle_olasilik": 0.26709
+  },
+  {
+    "id": 2,
+    "girdiler": {
+      "karar_suresi_sn": 45.0,
+      "karar_degistirme_sayisi": 4,
+      "sahne_zorluk_derecesi": 4,
+      "onceki_yanlis_sayisi": 2,
+      "yazi_okuma_hizi_wpm": 130.0
+    },
+    "beklenen_sinif": 1,
+    "oracle_olasilik": 1.0
+  },
+  {
+    "id": 3,
+    "girdiler": {
+      "karar_suresi_sn": 25.0,
+      "karar_degistirme_sayisi": 2,
+      "sahne_zorluk_derecesi": 3,
+      "onceki_yanlis_sayisi": 1,
+      "yazi_okuma_hizi_wpm": 180.0
+    },
+    "beklenen_sinif": 1,
+    "oracle_olasilik": 0.999641
+  },
+  {
+    "id": 4,
+    "girdiler": {
+      "karar_suresi_sn": 8.0,
+      "karar_degistirme_sayisi": 0,
+      "sahne_zorluk_derecesi": 1,
+      "onceki_yanlis_sayisi": 0,
+      "yazi_okuma_hizi_wpm": 300.0
+    },
+    "beklenen_sinif": 0,
+    "oracle_olasilik": 0.019042
+  },
+  {
+    "id": 5,
+    "girdiler": {
+      "karar_suresi_sn": 38.0,
+      "karar_degistirme_sayisi": 3,
+      "sahne_zorluk_derecesi": 5,
+      "onceki_yanlis_sayisi": 3,
+      "yazi_okuma_hizi_wpm": 110.0
+    },
+    "beklenen_sinif": 1,
+    "oracle_olasilik": 1.0
+  }
+]
